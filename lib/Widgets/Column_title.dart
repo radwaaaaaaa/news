@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/Models/Column_titles.dart';
 
 // cached network image
 class NewsTile extends StatelessWidget {
