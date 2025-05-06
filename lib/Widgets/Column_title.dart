@@ -20,7 +20,7 @@ class NewsTile extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         Text(
-          'yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy',
+          'My name is radwa my age is 22 ',
           maxLines: 2,
           overflow: TextOverflow.ellipsis,
           style: const TextStyle(
@@ -31,7 +31,7 @@ class NewsTile extends StatelessWidget {
         ),
         const SizedBox(height: 8),
         Text(
-          'kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk',
+          'anything else',
           maxLines: 2,
           style: const TextStyle(color: Colors.grey, fontSize: 14),
         ),
